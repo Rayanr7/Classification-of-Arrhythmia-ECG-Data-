@@ -1,10 +1,10 @@
-# 💓 Classification of Arrhythmia (ECG Data)
+Classification of Arrhythmia (ECG Data)
 
 A machine learning project that classifies ECG data to detect different types of cardiac arrhythmia using classical machine learning algorithms. The project includes data preprocessing, feature engineering, PCA, SMOTE, and model evaluation. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🚀 Features
+ Features
 
 - ECG data preprocessing
 - Missing value handling
@@ -16,7 +16,7 @@ A machine learning project that classifies ECG data to detect different types of
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - Python
 - Scikit-learn
@@ -28,7 +28,7 @@ A machine learning project that classifies ECG data to detect different types of
 
 ---
 
-## 📂 Project Structure
+Project Structure
 
 ```
 Classification-of-Arrhythmia/
@@ -43,7 +43,7 @@ Classification-of-Arrhythmia/
 
 ---
 
-## ⚙️ Installation
+Installation
 
 ```bash
 git clone <repository-url>
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+Usage
 
 Run the notebooks in the following order:
 
@@ -71,7 +71,7 @@ jupyter notebook
 
 ---
 
-## 🤖 Models Used
+Models Used
 
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
@@ -82,7 +82,7 @@ jupyter notebook
 
 ---
 
-## 📊 Dataset
+Dataset
 
 - UCI Arrhythmia Dataset
 - 452 ECG records
@@ -91,6 +91,6 @@ jupyter notebook
 
 ---
 
-## 📄 License
+License
 
 This project is intended for educational and research purposes.
